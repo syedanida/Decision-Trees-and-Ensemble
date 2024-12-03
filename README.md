@@ -14,7 +14,7 @@
    
 3. AdaBoost from Scratch
 
-   - [Colab Notebook](#)
+   - [Colab Notebook](https://colab.research.google.com/drive/1WLPsvYUbFmWnNg56hzozChowEjM65SU-?authuser=5#scrollTo=8FEKP9Yt0d54)
 
    - [Video](#)
 
