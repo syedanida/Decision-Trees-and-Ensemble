@@ -26,7 +26,7 @@
 
 5. GBM Classifier Techniques
 
-   - [Colab Notebook](#)
+   - [Colab Notebook](https://colab.research.google.com/drive/1_IASmjSDUJLfUIkGjSXe9bB_5wDRrm1E?authuser=5#scrollTo=Oy25wwo26KFY)
 
    - [Video](#)
 
