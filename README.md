@@ -20,7 +20,7 @@
 
 4. Decision Tree from Scratch
 
-   - [Colab Notebook](#)
+   - [Colab Notebook](https://colab.research.google.com/drive/1qhaU29hHf5_qYkpMj_EGtLjcqIW0HKJV?authuser=5#scrollTo=xxipgsBy1sL9)
 
    - [Video](#)
 
