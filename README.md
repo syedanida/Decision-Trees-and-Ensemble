@@ -32,7 +32,7 @@
 
 6. GBM Regression Techniques
 
-   - [Colab Notebook](#)
+   - [Colab Notebook](https://colab.research.google.com/drive/13CaT-BX8XpWZU1p7Bkh30Q5k7CODMvN1?authuser=5#scrollTo=iDYmD1yY65_4)
 
    - [Video](#)
 
