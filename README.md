@@ -38,6 +38,6 @@
 
 7. GBM Ranking Techniques
 
-   - [Colab Notebook](#)
+   - [Colab Notebook](https://colab.research.google.com/drive/1Lttn3D_CiKjUT0w7ChKNJoY47IabQ7wA?authuser=5#scrollTo=NA9Qct8hNW7S)
 
    - [Video](#)
