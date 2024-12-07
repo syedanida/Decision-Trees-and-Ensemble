@@ -1,4 +1,19 @@
-# Decision-Trees-and-Ensemble
+# Decision Trees and Ensemble Methods  
+
+This repository contains the deliverables for an assignment focused on implementing decision trees and ensemble methods from scratch, as well as exploring advanced gradient boosting techniques. The assignment required creating Python implementations of various machine learning algorithms, demonstrating their functionality in Google Colab notebooks, and providing video walkthroughs for each implementation.  
+
+## Assignment Objectives  
+
+### 1. Implementing Classic Algorithms from Scratch  
+- **Gradient Boosting**: Develop a classic Gradient Boosting algorithm from scratch and demonstrate its working in a Colab notebook.  
+- **Random Forest**: Implement Random Forest from scratch and showcase it in a Colab notebook.  
+- **AdaBoost**: Write the AdaBoost algorithm from scratch and demonstrate it in Colab.  
+- **Decision Trees**: Build a Decision Tree algorithm from scratch and present its functionality in a Colab notebook.  
+
+### 2. Showcasing GBM Techniques  
+- **GBM Classifier Techniques**: Demonstrate models like XGBoost, CatBoost, LightGBM, Random Forest, AdaBoost, and Decision Trees.  
+- **GBM Regression Techniques**: Showcase gradient boosting regression using XGBoost, CatBoost, and LightGBM.  
+- **GBM Ranking Techniques**: Illustrate gradient boosting ranking with XGBoost, CatBoost, and LightGBM.  
 
 1. Gradient Boosting from Scratch
 
